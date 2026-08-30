@@ -1,0 +1,10 @@
+# Salazar Pay — PWA
+
+Arquitetura baseada na mesma estrutura usada no AquaSalazar:
+- index.html — aplicativo
+- manifest.webmanifest — instalação como PWA
+- sw.js — cache/offline e atualização do app
+- icon.svg — ícone
+
+O Salazar Pay V1 mantém os dados no localStorage do navegador/aplicativo.
+Não há banco de dados online nesta versão.
