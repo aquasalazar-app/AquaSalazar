@@ -1,12 +1,12 @@
 {
-  "name": "Salazar Pay",
-  "short_name": "Salazar Pay",
-  "description": "Controle simples das suas finanças.",
+  "name": "AquaSalazar",
+  "short_name": "AquaSalazar",
+  "description": "Cadastro e pesquisa rápida de clientes.",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
-  "background_color": "#080b10",
-  "theme_color": "#080b10",
+  "background_color": "#f4f8fb",
+  "theme_color": "#087ea4",
   "lang": "pt-BR",
   "icons": [
     {
